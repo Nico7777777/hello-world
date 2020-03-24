@@ -2,5 +2,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<factorial(3);
+    cout<<factorial(10)<<endl;
+    cout<<factiorial(20)<<endl;
 }
